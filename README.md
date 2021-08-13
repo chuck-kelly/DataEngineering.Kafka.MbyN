@@ -26,3 +26,5 @@ More References
 You should think about *how do I create a producer in python, something that __generates__ data, possibly random, in an unlimited fashion?*
 
 A __generator__ in python can create things without building a big memory foot print? rememeber? Feel free to share your ideas on how to do this within the cohort, the main idea of this lab is *Kafka* not *python*, so if some of you come up with cool little data generators, __share them within the cohort__.
+
+test
